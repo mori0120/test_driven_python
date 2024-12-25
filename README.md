@@ -1,1 +1,1 @@
-"�e�X�g�쓮Python��Q��" 
+テスト駆動Python第２版の学習プロジェクト
