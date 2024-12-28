@@ -1,3 +1,3 @@
 def test_fail():
-    print("\print in failing test")
+    print("\nprint in failing test")
     assert False
